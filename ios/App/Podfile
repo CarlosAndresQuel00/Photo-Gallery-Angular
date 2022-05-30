@@ -16,6 +16,7 @@ def capacitor_pods
   pod 'CapacitorKeyboard', :path => '..\..\node_modules\@capacitor\keyboard'
   pod 'CapacitorStatusBar', :path => '..\..\node_modules\@capacitor\status-bar'
   pod 'CapacitorStorage', :path => '..\..\node_modules\@capacitor\storage'
+  pod 'CapacitorVoiceRecorder', :path => '..\..\node_modules\capacitor-voice-recorder'
 end
 
 target 'App' do
